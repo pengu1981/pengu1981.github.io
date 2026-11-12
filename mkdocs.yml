@@ -1,0 +1,17 @@
+site_name: Meine Seite 
+theme:
+  name: material
+
+nav:
+  - Startseite: index.md
+  - Archiv & Rückblick:
+      - Erste Jahre: archiv/first.md
+      - Die eigene Firma: archiv/company.md
+      - Im Kundenservice: archiv/support.md
+      - Learnings und so: archiv/learn.md
+  - Aktuelles Logbuch:
+      - Ausgangssituation: logbuch/situation.md
+      - Router und Modem: logbuch/router.md
+      - Telefonie: logbuch/telephony.md
+      - Netswerk: logbuch/network.md
+      - Virtualisierung: logbuch/virt.md
