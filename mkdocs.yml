@@ -5,13 +5,13 @@ theme:
 nav:
   - Startseite: index.md
   - Archiv & Rückblick:
-      - Erste Jahre: archiv/first.md
-      - Die eigene Firma: archiv/company.md
-      - Im Kundenservice: archiv/support.md
-      - Learnings und so: archiv/learn.md
+      - Erste Jahre: archive/first.md
+      - Die eigene Firma: archive/company.md
+      - Im Kundenservice: archive/support.md
+      - Learnings und so: archive/learn.md
   - Aktuelles Logbuch:
-      - Ausgangssituation: logbuch/situation.md
-      - Router und Modem: logbuch/router.md
-      - Telefonie: logbuch/telephony.md
-      - Netswerk: logbuch/network.md
-      - Virtualisierung: logbuch/virt.md
+      - Ausgangssituation: log/situation.md
+      - Router und Modem: log/router.md
+      - Telefonie: log/telephony.md
+      - Netswerk: log/network.md
+      - Virtualisierung: log/virt.md
